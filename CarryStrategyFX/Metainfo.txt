@@ -1,5 +1,7 @@
 Name of Quantlet : CarryStrategyFX
 
+Published in : 'Currency hedging for SMEs and pension funds'
+
 Description : 'Contains the Carry trade strategy for foreign exchanges, which involves borrowing and subsequently selling a low-interest currency to fund the purchase of a higher-yielding currency.'
 
 Keywords : 
