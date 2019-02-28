@@ -6,6 +6,8 @@
 
 Name of Quantlet : MomentumStrategyFX
 
+Published in : 'Currency hedging for SMEs and pension funds'
+
 Description : 'Contains the Momentum strategy for the cross-sectional portfolio. For our approach, we apply the algorithm presented 
 by Baz et al. (2015) to generate the momentum signal, based on three crossovers of exponential moving averages with different 
 time horizons. The three different crossovers identify short-, medium-, and long-term trends respectively. A signal is generated for 
