@@ -9,7 +9,7 @@ Name of Quantlet: ValueStrategyFX
 
 Published in: Currency hedging for SMEs and pension funds
 
-Description: Contains the Value strategy for the cross-sectional portfolio, which involves buying (selling) assets that
+Description: Contains the Value strategy for the cross-sectional portfolio, which involves buying (selling) assets that are undervaluated (overvaluated) relative to a measure of fundamental value.  For our approach, we apply the algorithm presented by Baz et al. (2015) to generate the trading signal, based on the fundamental value represented by the real exchange rate. Based on the generated trading signals, we create the cross sectional portfolio.
 
 Keywords: 
 - fx trading
@@ -26,7 +26,7 @@ Submitted: Wed, 27 2019 by Joerg Osterrieder and Piotr Kotlarz
 
 Datafile: data.RData, ValueFunctions.R, ValuePackages.R, ValueStrategyFX.R
 
-Example: Performance of cross sectional portfolio based on the value factor for
+Example: Performance of cross sectional portfolio based on the value factor for EUR/USD, CAD/USD, CNY/USD, CZK/USD, JPY/USD, CHF/USD, GBP/USD and SEK/USD from 01-01-2006 to 01-12-2017 with monthly frequency.
 
 ```
 <div align="center">
